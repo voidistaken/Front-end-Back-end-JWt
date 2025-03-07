@@ -3,12 +3,19 @@ Bienvenue dans notre application web de librairie développée avec React.js ! �
 Cette plateforme permet aux utilisateurs de s'inscrire, se connecter et accéder à une collection de livres uniquement après authentification. Grâce à l'utilisation de JSON Web Tokens (JWT), nous assurons une navigation sécurisée et fluide.
 
 🌟 Fonctionnalités Clés
+
 ✅ Authentification Utilisateur – Inscription et connexion sécurisées 🔑🛡️
+
 ✅ Gestion de JWT – Utilisation de tokens pour sécuriser l'accès 📜🔐
+
 ✅ Routes Protégées – Seuls les utilisateurs connectés peuvent voir les livres 🚧
+
 ✅ Stockage Local – Conservation du token pour éviter une reconnexion fréquente 📦
+
 ✅ Appel API Sécurisé – Récupération des données avec Axios et envoi du token dans les headers ⚡
+
 ✅ Interface Moderne – Une expérience utilisateur fluide et esthétique 🎨
+
 
 🛠️ Technologies Utilisées
 🔹 React.js – Librairie JavaScript pour une interface interactive ⚛️
